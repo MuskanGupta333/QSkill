@@ -45,3 +45,25 @@ Collected from Kaggle – housing price dataset.
 
 ## Conclusion
 The linear regression model effectively predicts house prices and highlights key influencing factors.
+
+
+# Matrix Operations Tool using NumPy
+
+## Description
+A Python-based interactive tool to perform matrix operations using NumPy.
+
+## Operations Supported
+- Addition
+- Subtraction
+- Multiplication
+- Transpose
+- Determinant
+
+## Technologies Used
+- Python
+- NumPy
+
+## How to Run
+python matrix_operations.py
+
+
